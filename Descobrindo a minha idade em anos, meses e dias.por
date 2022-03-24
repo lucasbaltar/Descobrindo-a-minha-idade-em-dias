@@ -18,7 +18,7 @@ programa
 		meses = (dias % 365) / 30
 		escreva("\n", meses, " meses")
 
-		dias = (dias % 365) % 30)
+		dias = (dias % 365) % 30
 		escreva("\ne ", dias, " dias")
 	}
 }
